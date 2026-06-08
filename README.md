@@ -1,2 +1,2 @@
 # Codel-City
-A gargantuan city covering California, Arizona, Utah, and Nevada in the year 2184 when the world has been ravaged by war.
+A gargantuan city covering California, Arizona, Utah, and Nevada in the year 2184 when the world has been ravaged by war. In this story, the city represents the undying will of human as they persevere through a radiated world. The city will be a mix of the beauty for the architecture, the disgusting decay of the streets, the detail of each of the buildings, and the overwhelming size of all of it. 
